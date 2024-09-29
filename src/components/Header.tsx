@@ -4,7 +4,7 @@ import './Header.css'; // Headerコンポーネントに対応するCSSファイ
 
 const Header: React.FC = () => {
   return (
-    <header className="header">
+    <header className="header"> 
       <Link to="/" className="logo">
         Venus
       </Link>
