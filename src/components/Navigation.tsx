@@ -5,7 +5,7 @@ const Navigation: React.FC = () => {
   return (
     <nav className="header-navigation">
       <Link to="/signin">Sign In</Link>
-      <Link to="/signup">Sign Up</Link>
+      <Link to="/signup">Sign Up</Link>　
     </nav>
   );
 };
