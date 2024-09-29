@@ -10,7 +10,7 @@ const Header: React.FC = () => {
       </Link>
       <nav>
         <ul className="nav-links">
-          <li>
+          <li> 
             <Link to="/locations">Locations</Link>
           </li>
           <li>
